@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Abolade</h1>
+<h1 align="center">Hi there 👋, I'm David Abolade</h1>
 <h3 align="center">A creative frontend web developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-believer&label=Profile%20views&color=0e75b6&style=flat" alt="a-believer" /> </p>
