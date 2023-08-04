@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/thedavid_ao" target="_blank"><img src="https://img.shields.io/twitter/follow/thedavid_ao?logo=twitter&style=for-the-badge" alt="thedavid_ao" /></a> </p>
 
-- 🔭 I’m currently working on [Labwox](labwox.vercel.app)
+- 🔭 I’m currently working on [Labwox](<a href="https://labwox.vercel.app" target="_blank">labwox.vercel.app</a>)
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [david-portfolio-flax.vercel.app](david-portfolio-flax.vercel.app)
+- 👨‍💻 All of my projects are available at [david-portfolio-flax.vercel.app](<a href="https://david-portfolio-flax.vercel.app" target="_blank">david-portfolio-flax.vercel.app</a>)
 
 - 💬 Ask me about **Modern Web Development**
 
